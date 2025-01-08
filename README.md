@@ -1,7 +1,7 @@
 # C PROGRAMMING LAB
 THE TOPICS ARE:
 
-##FUNCTIONS
-##RECURSIONS
-##DATA TYPES
-##memory management
+## FUNCTIONS
+## RECURSIONS
+## DATA TYPES
+## memory management
